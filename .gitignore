@@ -3,3 +3,6 @@
 /*.iml
 /bin
 /gen
+/.settings
+/.classpath
+/.project
